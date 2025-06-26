@@ -1,3 +1,3 @@
 # Repository for Posting Casual Coding
-Contains:
-GPA Calculator
+### Contains:
+## GPA Calculator
