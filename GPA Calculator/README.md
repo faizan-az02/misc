@@ -1,10 +1,10 @@
-# 🎓 GPA Calculator (Python CLI Tool)
+# GPA Calculator (Python CLI Tool)
 
 This is a simple Python command-line tool for calculating your GPA based on course grades and credit hours.
 
 ---
 
-## 📌 Features
+## Features
 
 - Accepts multiple course GPA inputs along with their credit hours
 - Validates GPA input (must be between 0.0 and 4.0)
@@ -13,7 +13,7 @@ This is a simple Python command-line tool for calculating your GPA based on cour
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. The user is prompted to input the **GPA for a course**.
 2. If the input is valid (between 0 and 4), the user is then prompted to enter **credit hours** for that course.
@@ -27,7 +27,7 @@ This is a simple Python command-line tool for calculating your GPA based on cour
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Make sure you have Python installed. Then run:
 
@@ -37,7 +37,7 @@ python gpa_calc.py
 
 ---
 
-## 🧪 Sample Interaction
+## Sample Interaction
 
 ```
 Enter course GPA (or 5 to calculate GPA with entered data): 3.7
@@ -50,6 +50,6 @@ Your GPA is: 3.87
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and free to use for educational or personal use.
