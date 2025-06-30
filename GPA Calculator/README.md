@@ -19,13 +19,6 @@ This is a simple Python command-line tool for calculating your GPA based on cour
 2. If the input is valid (between 0 and 4), the user is then prompted to enter **credit hours** for that course.
 3. The user repeats this for all courses.
 4. When done, the user enters `5` to trigger the GPA calculation.
-5. The script calculates the **weighted GPA** using the formula:
-
-\[
-\text{GPA} = \frac{\sum (\text{GPA} \times \text{Credit Hours})}{\sum \text{Credit Hours}}
-\]
-
----
 
 ## How to Run
 
