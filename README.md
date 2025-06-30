@@ -1,3 +1,4 @@
 # Repository for Posting Casual Coding
 ## Contains:
-### GPA Calculator
+### - GPA Calculator
+### - Social Media Feed Prototype
