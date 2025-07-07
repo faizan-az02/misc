@@ -79,6 +79,6 @@ N
 - Binary encoding is dynamically generated based on character frequency.
 - Clean file I/O using standard C++ streams.
 
-## 👨‍💻 Author
+## Author
 
 Faizan Aziz
