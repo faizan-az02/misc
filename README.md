@@ -3,3 +3,4 @@
 ### - GPA Calculator
 ### - Social Media Feed Prototype
 ### - Sorting Algorithms
+### - Huffman Encoding
