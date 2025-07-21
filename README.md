@@ -4,4 +4,4 @@
 ### - Social Media Feed Prototype
 ### - Sorting Algorithms
 ### - Huffman Encoding
-### - Doubly Linked List Operations
+### - Doubly Linked List
